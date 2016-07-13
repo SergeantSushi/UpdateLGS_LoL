@@ -1,0 +1,20 @@
+PLEASE READ THIS SCRIPT BEFORE RUNNING IT!
+
+By using this script you accept full liability for what this script may do to 
+your computer.  The only legitimate source for obtaining this script is listed 
+below.  If you downloaded this script from anywhere else, it may have been 
+repurposed to do nefarious things to your computer in addition to updating your
+LGS profile.
+
+Original script: https://github.com/SergeantSushi/UpdateLGS_LoL
+Can I make modifications to fix bugs/suit my needs? Yes
+Can I share this? Only if you provide credit to the original author with a link
+                  to the aforementioned repository.
+Can I profit from or market from this script with a paid product? No
+
+DEPENDENCIES: 
+Python 2.7: https://www.python.org/downloads/
+
+USAGE:
+python UpdateLGS.py
+python UpdateLGS.py MyCoolLeagueProfileName

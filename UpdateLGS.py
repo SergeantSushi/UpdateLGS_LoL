@@ -177,6 +177,8 @@ def main( argc, argv ):
     
     if argc == 2:
         lLeagueProfile = identifyLeagueProfile( lLGSPath, argv[ 1 ] )
+        if lLeagueProfile < 0:
+            return -1
     else:
         lLeagueProfile = identifyLeagueProfile( lLGSPath )
     updateLeagueProfile( lLGSPath + lLeagueProfile )
